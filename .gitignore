@@ -1,0 +1,58 @@
+node_modules
+
+# Compiled source #
+###################
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# Packages #
+############
+# it's better to unpack these files and commit the raw source
+# git has its own built in compression methods
+*.7z
+*.dmg
+*.gz
+*.jar
+*.zip
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+.DS_Store
+
+.DS_Store
+
+tutorials/.DS_Store
+
+tutorials/iot-part11-hcp-services-ti/.DS_Store
+
+tutorials/teched-2016-9/.tesselinclude
+
+*.js
+
+tutorials/xsa-connecting-webide/xsa-connecting-webide_COPY_FROM_WDFM33344101A.md
+
+tutorials/xsa-sapui5-metadata/xsa-sapui5-metadata_COPY_FROM_WDFM33344101A.md
+
+tutorials/xsa-sqlscript-usingindexbased/xsa-sqlscript-usingindexbased_COPY_FROM_WDFM33344101A.md
+
+tutorials/xsa-xsodata-entity/xsa-xsodata-entity_COPY_FROM_WDFM33344101A.md
+
+tutorials/xsa-xsodata-create/xsa-xsodata-create_COPY_FROM_WDFM33344101A.md
