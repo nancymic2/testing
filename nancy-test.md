@@ -1,6 +1,19 @@
-This is a test
-Let’s see if these are crlf
-Or if they are lf
-And let’s see what git does
 
 
+his is a 
+
+es
+
+ Le
+
+’s see if 
+
+hese are crlf Or if 
+
+hey are lf And le
+
+’s see wha
+
+ gi
+
+ does
