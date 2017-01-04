@@ -1,33 +1,21 @@
-his is a
 
 
+his is a 
 
 es
 
+.Le
 
+’s see if 
 
-Le
-
-
-
-’s see if
-
-
-
-hese are crlf Or if
+hese are crlf Or if 
 
 
 
 hey are lf And le
 
-
-
-’s see wha
-
-
+s see wha
 
 gi
 
-
-
-does
+ does
