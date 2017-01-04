@@ -4,18 +4,14 @@ his is a
 
 es
 
-.Le
-
-’s see if 
-
-hese are crlf Or if 
-
-
-
-hey are lf And le
+ file. le
 
 s see wha
 
-gi
+ gi
 
- does
+ does wi
+
+h 
+
+his
